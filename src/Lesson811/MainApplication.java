@@ -1,8 +1,6 @@
 package Lesson811;
 
-import Lesson81.Clinic;
-
-public class Start1 {
+public class MainApplication {
     public static void main(String[] args) {
         Patient1 viktor = new Patient1("Viktor");
         Patient1 vasya = new Patient1("Vasilii");
