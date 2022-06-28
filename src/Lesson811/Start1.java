@@ -8,7 +8,6 @@ public class Start1 {
         Patient1 vasya = new Patient1("Vasilii");
         Patient1 jora = new Patient1("Jorik");
 
-
         Plan1 plan1 = new Plan1(1);
         Plan1 plan2 = new Plan1(2);
         Plan1 plan3 = new Plan1(3);

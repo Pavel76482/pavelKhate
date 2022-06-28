@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cde7f5ed-23eb-453d-a43f-08e04bff401c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson81/Clinic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson81/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson81/Plan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson81/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson811/Clinic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson811/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson811/Doctor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson811/Patient1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson811/Plan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson811/Start1.java" afterDir="false" />
+    <list default="true" id="cde7f5ed-23eb-453d-a43f-08e04bff401c" name="Changes" comment="Lesson8.11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson811/Start1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson811/Start1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656005830517</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson8.11">
+      <created>1656361837124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656361837124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson8.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson8.11" />
   </component>
 </project>
