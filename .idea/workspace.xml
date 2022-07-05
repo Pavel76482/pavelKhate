@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cde7f5ed-23eb-453d-a43f-08e04bff401c" name="Changes" comment="Lesson8.11">
+    <list default="true" id="cde7f5ed-23eb-453d-a43f-08e04bff401c" name="Changes" comment="Lesson8.DZ">
+      <change afterPath="$PROJECT_DIR$/src/Crown/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crown/Crown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crown/Flyble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crown/Sleepers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7Task1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7Task1/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7Task1/MainF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7Task1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson7Task1/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9Task1/VectorTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smolyakova/Treining.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson811/Start1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson811/Start1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +23,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -39,7 +55,33 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Mobile">
+  <component name="RunManager" selected="Application.MainF">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson811.MainApplication" />
+      <module name="OOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson811.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7Task1.MainF" />
+      <module name="OOP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Mobile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson8.Mobile" />
       <module name="OOP2" />
@@ -53,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Start1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson811.Start1" />
+    <configuration name="Treining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Smolyakova.Treining" />
       <module name="OOP2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson811.*" />
+          <option name="PATTERN" value="Smolyakova.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +110,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainF" />
+        <item itemvalue="Application.Treining" />
         <item itemvalue="Application.Mobile" />
-        <item itemvalue="Application.Start1" />
+        <item itemvalue="Application.MainApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656361837124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson8.11">
+      <created>1656431157781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656431157781</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson8.DZ">
+      <created>1656431501520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656431501520</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson8.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson8.11" />
+    <MESSAGE value="Lesson8.DZ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson8.DZ" />
   </component>
 </project>
